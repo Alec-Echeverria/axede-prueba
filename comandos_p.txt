@@ -1,0 +1,14 @@
+#Para crear la aplicación
+python manage.py starapp reservas_hotel
+python            migrate
+                runserver
+
+#crear modelos
+#ir a tareas
+
+#Para vite.js
+#toca dirigirse a la raiz del proyecto
+npm create vite
+npm install
+npm run dev
+npm install react-router-dom react-hot-toast axios react-hook-form 
